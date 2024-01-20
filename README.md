@@ -1,4 +1,4 @@
-## Update: [Answer from Haier](https://github.com/Andre0512/hon/issues/147#issuecomment-1902075829) 
+## just in case
 ## Announcement: I have to take the project down in the next few days
 > Dear User,
 > 
